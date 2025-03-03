@@ -7,7 +7,7 @@
 ---
 
 
-![Canvas][arq_LLM.png]
+![Canvas](arq_LLM.png)
 
 
 # <font color="#c3d69b">Descrição breve: </font>
